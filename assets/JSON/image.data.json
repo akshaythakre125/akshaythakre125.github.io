@@ -1,0 +1,45 @@
+[
+    {
+        "ID": "001",
+        "Name": "Prashant Chauhan",
+        "Design": "Software Developer",
+        "image" : "./assets/image/prashant.jpg"        
+        
+    },
+    {
+        "ID": "002",
+        "Name": "Sumit Gawas",
+        "Design": "Sr. Software Engineer",
+        "image" : "./assets/image/sumit.jpg"
+        
+    },
+    {
+        "ID": "003",
+        "Name": "Rohit Kushwaha",
+        "Design": "Software Analyst",
+        "image" : "./assets/image/rohit.jpg"
+        
+    },
+
+    {
+        "ID": "004",
+        "Name": "Sneha Awasthi",
+        "Design": "Software Designer",
+        "image" : "./assets/image/sneha.jpg"
+        
+    },
+    {
+        "ID": "005",
+        "Name": "Pooja Chaudhary",
+        "Design": "Data Analyst",
+        "image" : "./assets/image/pooja.jpg"
+        
+    },
+    {
+        "ID": "006",
+        "Name": "Akshay Thakre",
+        "Design": "Software Engineer",
+        "image" : "./assets/image/akshay.jpg"
+        
+    }
+    ]
